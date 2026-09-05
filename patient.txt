@@ -1,0 +1,5 @@
+Patient Details:
+Patient ID: 101
+Name: Rahul
+Age: 25
+Diagnosis: Fever
